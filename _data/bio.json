@@ -6,7 +6,7 @@
     "email": "mishalyn@hawaii.edu","misha.ilmeng@gmail.com",
     "phone": "808-446-5278",
     "website": "https://mishalyn-mei-ilmeng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in cybersecurity or ",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in cybersecurity or data science.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mishalyn-mei-ilmeng", "url": "http://github.com/mishalyn-mei-ilmeng" },
@@ -22,11 +22,11 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Typescript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS" ]
+      "keywords": [ "MacOS, Unix, Microsoft Excel" ]
     }
   ],
   "education": [
