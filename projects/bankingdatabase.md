@@ -24,6 +24,7 @@ Overall, this project improved my understanding of C++ and how to design a progr
 <hr>
 
 <pre>
+```
 -=+#################################################+=-
 Welcome to Banker's Dashboard! 
 
@@ -33,6 +34,7 @@ printall: Print all records
 find: Find a customer record
 delete: Delete a customer record
 quit: Quit program
+```
 </pre>
 
 
@@ -41,6 +43,7 @@ quit: Quit program
 <hr>
 
 <pre>
+```
 int llist::addRecord(int accNum, char name[], char address[])
 {   
     record *previous;
@@ -107,4 +110,5 @@ int llist::addRecord(int accNum, char name[], char address[])
     }
     return outcome;
 }
+```
 </pre>
