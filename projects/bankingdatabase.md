@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/bank-counter.jpg
+image: img/bank-counter-crop.jpg
 title: "Banker's Dashboard"
 date: 2024
 published: true
