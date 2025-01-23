@@ -47,7 +47,7 @@
       "website": "",
       "startDate": "2024-07-01",
       "endDate": "Present",
-      "summary": "Seasonal job on Maui for the summer and winter.",
+      "summary": "",
       "highlights": [
         "Serve as a personal stylist for customers by recommending eyewear based on their personal needs and current trends.",
         "Manage daily retail operations, including inventory management, point-of-sale transactions, selling merchandise, and customer service.",
@@ -57,15 +57,15 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Internship",
-      "startDate": "2023-01",
-      "endDate": "2023-05",
-      "summary": "Intern following architect",
+      "organization": "",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "",
+      "endDate": "",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Visiting jobsites an d"
+        "Member, Katipunan Club, 2023-Present",
+        "Member, ACM Manoa, 2023-Present"
       ]
     }
   ],
