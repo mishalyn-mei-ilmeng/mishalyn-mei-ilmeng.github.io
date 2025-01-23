@@ -23,7 +23,6 @@ Overall, this project improved my understanding of C++ and how to design a progr
 
 <hr>
 
-<pre>
 ```
 -=+#################################################+=-
 Welcome to Banker's Dashboard! 
@@ -35,14 +34,12 @@ find: Find a customer record
 delete: Delete a customer record
 quit: Quit program
 ```
-</pre>
 
 
 
 **I also included my implementation of adding a record to the database.**
 <hr>
 
-<pre>
 ```
 int llist::addRecord(int accNum, char name[], char address[])
 {   
@@ -111,4 +108,3 @@ int llist::addRecord(int accNum, char name[], char address[])
     return outcome;
 }
 ```
-</pre>
