@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/book1.jpg
 title: "Panayam"
 date: 2024
 published: true
@@ -9,8 +9,9 @@ labels:
   - Language (Filipino)
 summary: "Panayam means interview in Tagalog. This is a presentation I created when I took FIL 201."
 ---
-
-<img width="1000px" src="../img/fil-1.png" class="img-thumbnail" >
+<div class="text-center p-4">
+  <img width="1000px" src="../img/fil-2.png" class="img-thumbnail" >
+</div>
 
 This project was about telling a story about someone with an intermediate level of Filipino. I needed to interview someone who originally lived in the Philippines and learn about their story. Why did they move? Where did they move to? What were their hardships and how did they overcome them? Once I had all these answers, I had to narrate all of these points to my peers. The only challenge was that this was not a cultural or social studies class. It was a language class, which meant that I needed to do all of this in Tagalog.
 
