@@ -3,7 +3,7 @@
     "name": "Mishalyn Mei Ilmeng",
     "label": "Student",
     "picture": "https://github.com/mishalyn-mei-ilmeng.png",
-    "email": "mishalyn@hawaii.edu",
+    "email": "mishalyn@hawaii.edu","misha.ilmeng@gmail.com",
     "phone": "808-446-5278",
     "website": "https://mishalyn-mei-ilmeng.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in cybersecurity or ",
@@ -26,15 +26,15 @@
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "keywords": [ "MacOS" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2027)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2023-07-23",
       "endDate": "Present",
       "courses": [
       ]
@@ -42,27 +42,16 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Sunglass Hut",
+      "position": "Casual Sales Associate",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2024-07-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Seasonal job on Maui for the summer and winter.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
-    },
-    {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Serve as a personal stylist for customers by recommending eyewear based on their personal needs and current trends.",
+        "Manage daily retail operations, including inventory management, point-of-sale transactions, selling merchandise, and customer service.",
+        "Perform eyewear adjustments and repairs with precision and care."
       ]
     }
   ],
@@ -70,41 +59,28 @@
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
       "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "position": "Internship",
+      "startDate": "2023-01",
+      "endDate": "2023-05",
+      "summary": "Intern following architect",
       "highlights": [
         "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Visiting jobsites an d"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "Mānoa Academic Merit Scholarship",
+      "date": "2023-Present",
+      "awarder": "University of Hawaii at Mānoa",
+      "summary": "Scholarships awarded to Hawai’i residents applying as first-year, degree-seeking students with a high school cumulative GPA of 3.6 or higher."
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "University of Hawai'i at M​ānoa Dean's List",
+      "date": "Fall 2023-Present",
+      "awarder": "University of Hawai'i at M​ānoa",
+      "summary": "Distinction rewarded to undergraduate students who earn a semester GPA of 3.5 or higher on 12+ credits and do not receive grades of NC (no credit), W (withdrawn), I (incomplete), F (failure)."
     }
   ],
   "references": [
