@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: img/bank-counter.jpg
 title: "Banker's Dashboard"
 date: 2024
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A banking system I created for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/cotton/cotton-header.png">
+<img class="img-fluid" src="../img/bank-counter.jpg">
 
 Banker's Dashboard is a banking system consisting of a user interface and a database. The purpose of the project was to create a banking system in which a "banker" would be able to manage account records for customers. It allowed the user to create, print, find, and delete records. In addition, upon quitting the program would write the data to a file. The saved file can then be used to read and recover the database to avoid resubmitting previous data. 
 
