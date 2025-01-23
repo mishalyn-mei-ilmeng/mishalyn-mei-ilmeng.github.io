@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/bank-counter.jpg">
+<img width="300px" class="rounded float-start pe-4" src="../img/laptop-displaying-web.jpg">
 
 ## Another Class, Another Language
 
