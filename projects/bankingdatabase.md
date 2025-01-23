@@ -35,11 +35,9 @@ delete: Delete a customer record
 quit: Quit program
 </pre>
 
-I also included the implementation of adding a record to the database.
+I also included my implementation of adding a record to the database.
 
-</hr>
-
-</pre>
+<pre>
 int llist::addRecord(int accNum, char name[], char address[])
 {   
     record *previous;
@@ -109,4 +107,5 @@ int llist::addRecord(int accNum, char name[], char address[])
         }
     }
     return outcome;
-}</pre>
+}
+</pre>
