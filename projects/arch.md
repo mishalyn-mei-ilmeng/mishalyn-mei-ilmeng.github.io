@@ -21,10 +21,21 @@ On top of the archiCAD and design skills I learned, this experience taught me ho
 Below are some very rough drafts for the design.
 
 <div class="text-center p-4">
-  <img width="img-fluid" 
+  <img width="500px" 
        src="../img/arch/rough-draft1-rot.jpg" 
        class="img-thumbnail" >
-  <img width="img-fluid" 
+  <img width="500px" 
        src="../img/arch/rough-draft2-rot.jpg" 
+       class="img-thumbnail" >
+</div>
+
+
+Next, I've included a floor and furniture plan.
+<div class="text-center p-4">
+  <img width="500px" 
+       src="../img/arch/floor-plan.PNG" 
+       class="img-thumbnail" >
+  <img width="500px" 
+       src="../img/arch/furniture-plan.PNG" 
        class="img-thumbnail" >
 </div>
