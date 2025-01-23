@@ -11,7 +11,9 @@ labels:
 summary: "A banking system I created for ICS 212."
 ---
 
-<img class="img-fluid" src="../img/bank-counter.jpg">
+<img width="img-fluid" 
+     class="rounded float-start pe-4" 
+     src="../img//bank-counter.jpg" >
 
 Banker's Dashboard is a banking system consisting of a user interface and a database. The purpose of the project was to create a banking system in which a "banker" would be able to manage account records for customers. It allowed the user to create, print, find, and delete records. In addition, upon quitting the program would write the data to a file. The saved file can then be used to read and recover the database to avoid resubmitting previous data. 
 
