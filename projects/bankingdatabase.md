@@ -11,9 +11,7 @@ labels:
 summary: "A banking system I created for ICS 212."
 ---
 
-<img width="img-fluid" 
-     class="rounded float-start pe-4" 
-     src="../img//bank-counter.jpg" >
+<img class="rounded mx-auto d-block" src="../img/bank-counter.jpg">
 
 Banker's Dashboard is a banking system consisting of a user interface and a database. The purpose of the project was to create a banking system in which a "banker" would be able to manage account records for customers. It allowed the user to create, print, find, and delete records. In addition, upon quitting the program would write the data to a file. The saved file can then be used to read and recover the database to avoid resubmitting previous data. 
 
@@ -21,7 +19,7 @@ For this project, I was responsible for the implementation and design of the dat
 
 Overall, this project improved my understanding of C++ and how to design a program from scratch. This experience taught me a lot about I/O in C++ and highlighted the differences of I/O in C and C++. It also taught me a lot about dynamic memory and reinforced my understanding about linked lists as a data structure. However, my favorite skill that I learned from this project was the use of makefiles and compiling directives because they made compiling more efficient and simple.
 
-The user's menu has 5 options for the user to choose from, allowing them to edit the database. It looks like this: 
+###The user's menu has 5 options for the user to choose from, allowing them to edit the database. It looks like this: 
 
 <hr>
 
@@ -39,7 +37,7 @@ quit: Quit program
 
 
 
-I also included my implementation of adding a record to the database.
+###I also included my implementation of adding a record to the database.
 <hr>
 
 <pre>
