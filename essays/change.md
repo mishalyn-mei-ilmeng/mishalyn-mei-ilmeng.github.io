@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-<img class="float-end rounded-end ps-4" width="500px" src="../img/laptop-displaying-web.jpg">
+<img class="float-end rounded-end p-4" width="500px" src="../img/laptop-displaying-web.jpg">
 
 Change always comes to me once I become comfortable in my routine. Whenever I begin a new topic or class on the ICS pathway, I dread the change in environment. This semester was no different when I was introduced to the concept of a flipped classroom. I immediately hated the idea because my favorite part of college so far has been the lectures. For the past two years, I often wondered whether or not I was meant to pursue a degree in computer science. Attending lectures would reignite my fire to grow my knowledge and understanding. 
 
@@ -26,4 +26,4 @@ Compared to the languages I’ve learned so far, Javascript and Typescript do no
 
 Whether it’s adjusting to new programming languages like Python, C++, JavaScript, and TypeScript, or adapting to the flipped classroom model, I have to reassure myself that the discomfort is an essential part of my journey. Just like in every other class, these new languages and new concepts are just another reminder that I will only grow if I step outside of my comfort zone. After all, if I had quit after one difficult class, I would never have discovered my passion for coding.
 
-> *Note that this essay was written with the help of Grammarly.*
+> *Note that this essay was written with the help of Grammarly to check for grammar and spelling.*
