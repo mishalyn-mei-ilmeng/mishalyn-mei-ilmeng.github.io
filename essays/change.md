@@ -25,4 +25,4 @@ Compared to the languages I’ve learned so far, Javascript and Typescript do no
 
 Whether it’s adjusting to new programming languages like Python, C++, JavaScript, and TypeScript, or adapting to the flipped classroom model, I have to reassure myself that the discomfort is an essential part of my journey. Just like in every other class, these new languages and new concepts are just another reminder that I will only grow if I step outside of my comfort zone. After all, if I had quit after one difficult class, I would never have discovered my passion for coding.
 
-*Note that this essay was written with the help of Grammarly.*
+> *Note that this essay was written with the help of Grammarly.*
