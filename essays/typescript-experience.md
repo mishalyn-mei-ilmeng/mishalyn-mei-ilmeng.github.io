@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Typescript: "
+title: "Typescript: A New Experience"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true
@@ -41,10 +41,10 @@ const { name: userName, age: userAge } = user;
 
 ```
 
-I feel like they make things more awkward and unclear than they could be. It might just be a matter of time until I adjust to Typescript's style but for first impressions, the language feels like a mix of the discomfort that I felt with Python and the complexity I did not experience with C. Whether this discomfort is due to my lack of familiarity or the nature of Typescript, only time will tell.
+I feel like they make things more awkward and simple than they need to be. I understand that arrow functions help with readability, but I still prefer traditional functions. It might just be a matter of time until I adjust to Typescript's style but for first impressions, the language feels like a mix of the discomfort that I felt with Python and the complexity I did not experience with C. Whether this discomfort is due to my lack of familiarity or the nature of Typescript, only time will tell.
 
 ### Final Thoughts 
 
-Whether it’s adjusting to new programming languages like Python, C++, JavaScript, and TypeScript, or adapting to the flipped classroom model, I have to reassure myself that the discomfort is an essential part of my journey. Just like in every other class, these new languages and new concepts are just another reminder that I will only grow if I step outside of my comfort zone. After all, if I had quit after one difficult class, I would never have discovered my passion for coding.
+Whether it’s adjusting to new programming languages like Python, C++, JavaScript, and TypeScript, or adapting to the flipped classroom model, I have to reassure myself that the discomfort is an essential part of my journey. It's a new concept and something I need to adapt to. Just like in every other class, these new languages and ideas are just another reminder that I will only grow if I step outside of my comfort zone. After all, if I had quit after one difficult class, I would never have explored my passion for coding.
 
 > *Note that this essay was written with the help of Grammarly to check for grammar and spelling.*
