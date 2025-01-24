@@ -13,8 +13,6 @@ labels:
 
 <img width="600px" class="rounded float-start pe-4" src="../img/arch/archi-cad.png">
 
-*Design: to devise for a specific function or end.* 
-
 If you told my teenage self that she wouldn't become an architect, she would probably call you a liar and a bad psychic. Ever since I was 10, I knew I wanted to spend my life designing. Before pursuing a degree in computer science, I wanted to design houses. I fell in love with the little details of creating floor plans and seeing my plans come to life once I finished their models. 
 More than anything else, I enjoyed drafting. This changed when I completed my architecture internship in high school, where I learned to use ArchiCAD.
 
