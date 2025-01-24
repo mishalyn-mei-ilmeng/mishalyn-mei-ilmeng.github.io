@@ -11,7 +11,7 @@ labels:
   - ArchiCAD
 ---
 
-<img width="800px" class="rounded float-start pe-4" src="../img/arch/archi-cad.png">
+<img width="600px" class="rounded float-start pe-4" src="../img/arch/archi-cad.png">
 
 *Design: to devise for a specific function or end.* 
 
