@@ -24,7 +24,7 @@ Compared to the languages I’ve learned so far, Javascript and Typescript do no
 
 <hr>
 
-```
+```ts
 // Arrow Functions
 const myFunc = () => {
   const myVar = "value";
