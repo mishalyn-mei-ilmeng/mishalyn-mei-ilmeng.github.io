@@ -10,9 +10,9 @@ labels:
   - Typescript
 ---
 
-<img class="float-end rounded-end ps-4" width="600px" src="../img/laptop-displaying-web.jpg">
+<img class="float-end rounded-end ps-4" width="500px" src="../img/laptop-displaying-web.jpg">
 
-Change always comes to me once I become comfortable in my routine. Whenever I begin a new topic or class on the ICS pathway, I dread the change in enviroment. This semester was no different when I was introduced to the concept of a flipped classroom. I immediately hated the idea because my favorite part of college so far has been the lectures. For the past two years, I often wondered whether or not I was meant to pursue a degree in computer science. Attending lectures would reignite my fire to grow my knowledge and understanding. 
+Change always comes to me once I become comfortable in my routine. Whenever I begin a new topic or class on the ICS pathway, I dread the change in environment. This semester was no different when I was introduced to the concept of a flipped classroom. I immediately hated the idea because my favorite part of college so far has been the lectures. For the past two years, I often wondered whether or not I was meant to pursue a degree in computer science. Attending lectures would reignite my fire to grow my knowledge and understanding. 
 
 I always left ICS classes feeling inspired and excited to tackle the next assignment or challenge. Flipped classrooms, however, do not offer the same reassurance. I thought this model was supposed to make it easier for us to learn. Instead, it made going to class more stressful than enjoyable. The modules are nice considering they give the class a clear schedule. However, they do not bring the same excitement and inspiration that a good lecture would.     
 
