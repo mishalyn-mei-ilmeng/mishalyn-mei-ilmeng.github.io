@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "To grow is to change"
+title: ""
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-22
 published: true
@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-<img class="float end" width="300px" class="rounded float-start pe-4" src="../img/laptop-displaying-web.jpg">
+<img class="float end" width="300px" src="../img/laptop-displaying-web.jpg">
 
 Change always comes to me once I become comfortable in my routine. Whenever I begin a new topic or class on the ICS pathway, I dread the change in enviroment. This semester was no different when I was introduced to the concept of a flipped classroom. I immediately hated the idea because my favorite part of college so far has been the lectures. For the past two years, I often wondered whether or not I was meant to pursue a degree in computer science. Attending lectures would reignite my fire to grow my knowledge and understanding. 
 
