@@ -10,7 +10,7 @@ labels:
   - Typescript
 ---
 
-<img align="right" width="400px" class="rounded float-start pe-4" src="../img/laptop-displaying-web.jpg">
+<img style="float: right;" width="400px" class="rounded float-start pe-4" src="../img/laptop-displaying-web.jpg">
 
 
 Whenever I begin a new topic or class on the ICS pathway, I dread the change from the previous teaching style. It always seems to come right after I get accustomed to my routine. This semester was no different when I was introduced to the concept of a flipped classroom. I immediately hated the idea because my favorite part of college so far has been the lectures. For the past two years, I often wondered whether or not I was meant to pursue a degree in computer science. Attending lectures would reignite my fire to grow my knowledge and understanding. I always left ICS classes feeling inspired and excited to tackle the next assignment or challenge. Flipped classrooms, however, do not offer the same reassurance. While the modules give some structure, they do not bring the same excitement and inspiration that a good lecture would.    
