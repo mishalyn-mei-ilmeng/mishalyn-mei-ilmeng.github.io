@@ -19,7 +19,7 @@ For this project, I was responsible for the implementation and design of the dat
 
 Overall, this project improved my understanding of C++ and how to design a program from scratch. This experience taught me a lot about I/O in C++ and highlighted the differences of I/O between C and C++. It also taught me a lot about dynamic memory and reinforced my understanding of linked lists as a data structure. However, my favorite skill that I learned from this project was the use of makefiles and compiling directives because they made compiling more efficient and simple.
 
-**The user's menu has 5 options for the user to choose from, allowing them to edit the database. It looks like this:** 
+> The user's menu has 5 options for the user to choose from, allowing them to edit the database. It looks like this:
 
 <hr>
 
@@ -37,10 +37,10 @@ quit: Quit program
 
 
 
-**I also included my implementation of adding a record to the database.**
+> I also included my implementation of adding a record to the database.
 <hr>
 
-```
+```cpp
 int llist::addRecord(int accNum, char name[], char address[])
 {   
     record *previous;
