@@ -20,7 +20,7 @@ More than anything else, I enjoyed drafting. This changed when I completed my ar
 
 In its own right, using ArchiCAD was fun, but I began to question how the software worked. Unlike other BIM software I have encountered, it was extremely user-friendly and efficient. I was amazed at how ArchiCAD could streamline operations that would otherwise take me hours on Revit. While this could have been due to my user error, it inspired me to think about the inner workings of a program. 
 
-##Is it really so different?
+## Is it really so different?
 In a way, the design process for an architect is similar to that of a software engineer. You start with some concept or idea and its purpose and produce a solution that meets those requirements. Ultimately, what drew me to software engineering was the opportunity to design programs that make life easier for people, like how ArchiCAD helped me with my project. Realizing my interest in software engineering didn't take away my passion for design. Instead, it was amplified and redirected towards computers. 
 
 Although I am uncertain of what path I want to follow, I want to explore my interest in cybersecurity and data science. There's something so exciting about the term cybersecurity and the challenge of defending information. Cybersecurity also aligns with my goal of creating something that helps others. Regardless of which path I end up choosing, I want to expand my understanding of algorithms and data structures and learn to design databases so that they will apply to my future projects. Even though I currently don't have the skills to develop something as substantial as ArchiCAD, I hope to experience internships and create projects that will provide me with the skills to work with large databases in the future.
