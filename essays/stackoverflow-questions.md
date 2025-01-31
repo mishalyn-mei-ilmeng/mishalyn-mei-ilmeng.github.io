@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img class="rounded float-start p-4" width="300px" src="../img/stack-overflow-questions.jpg">
+<img class="rounded float-start ps-4" width="300px" src="../img/stack-overflow-questions.jpg">
 
 ## Asking questions is an essential part of learning. 
 It can be irritating to be stuck on the same issue for hours. However, asking questions may not always result in the best responses. While the usefulness of those answers is up to the learner to decide, some questions can result in better replies than others. Poorly structured questions can lead to unrelated answers, unnecessary confusion, criticism, or plain radio silence. 
