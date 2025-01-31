@@ -29,7 +29,7 @@ I am running a simple FB scraper program on Python. But I keep getting errors wh
 The otp code is throwing an error and I am not sure why. I have a feeling that I am not retrieving the otp code correctly. Any thoughts? Thank you!
 ```
 
-Without any details to form a solution, the few comments asked for more information. There were no helpful responses.  A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. 
+Without any details to form a solution, the few comments asked for more information. There were no helpful responses. A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. While the author of the post did not face any snark remarks, it goes to show how you can't be helped if you refuse to help yourself. 
 
 ### A better question:
 
