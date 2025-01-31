@@ -93,3 +93,4 @@ The advantages are not limited to just the immediate participants either. With a
 
 [Link to Second Question](https://stackoverflow.com/questions/79083122/specflow-c-sharp-visual-studio-navigation-disabled)
 
+> *Note that this essay was written with the help of Grammarly to check for grammar and spelling.*
