@@ -4,7 +4,7 @@ type: essay
 title: "StackOverflow: The Good, The Bad, The 'Are you even trying?'"
 # All dates must be YYYY-MM-DD format!
 date: 2025-01-29
-published: false
+published: true
 labels:
   - Questions
   - Answers
@@ -20,7 +20,7 @@ Much like a first impression, a subject header matters when forming a smart ques
 
 ### A poor example:
 
-In the example below, the person who wrote the post does not ask a good question. The only question they ask,  "Any thoughts?" doesn't clarify anything. This person fails to provide any code, error codes, or any context. From this text, the author demonstrates a lack of care and effort made to solve their issue. 
+In the example below, the person who wrote the post does not ask a good question. The only question they ask, "Any thoughts?" doesn't clarify anything. This person fails to provide any code, error codes, or any context. From this text, the author demonstrates a lack of care and effort made to solve their issue. 
 
 
 **Facebook Scraper in Python**
