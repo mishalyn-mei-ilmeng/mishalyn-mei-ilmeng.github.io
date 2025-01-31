@@ -11,7 +11,7 @@ labels:
   - StackOverflow
 ---
 
-<img width="500px" class="rounded float-start pe-4" src="../img/stack-overflow-questions.jpg">
+<img class="rounded float-start p-4" height="375px" src="../img/stack-overflow-questions.jpg">
 
 ## Asking questions is an essential part of learning. 
 It can be irritating to be stuck on the same issue for hours. However, asking questions may not always result in the best responses. While the usefulness of those answers is up to the learner to decide, some questions can result in better replies than others. Poorly structured questions can lead to unrelated answers, unnecessary confusion, criticism, or plain radio silence. 
@@ -25,7 +25,8 @@ In the example below, the person who wrote the post does not ask a good question
 
 **Facebook Scraper in Python**
 ```
-I am running a simple FB scraper program on Python. But I keep getting errors when logging in. The otp code is throwing an error and I am not sure why. I have a feeling that I am not retrieving the otp code correctly. Any thoughts? Thank you!
+I am running a simple FB scraper program on Python. But I keep getting errors when logging in.
+The otp code is throwing an error and I am not sure why. I have a feeling that I am not retrieving the otp code correctly. Any thoughts? Thank you!
 ```
 
 Without any details to form a solution, the few comments asked for more information. There were no helpful responses.  A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. 
@@ -80,7 +81,7 @@ Warning: AndDiscoveryProviderSucceed: The project bindings (e.g. step definition
   Please check the error message above and report to https://github.com/SpecFlowOSS/SpecFlow.VS/issues if you cannot fix.
 ```
 
-Unlike the first example, the second example had some productive comments that offered solutions. 
+Unlike the first example, this forum had some productive comments that offered solutions. 
 
 ## Conclusion
 The practice of asking smart questions can improve the experience for everyone involved. A well-laid-out question and post can make it easier for those helping to understand the problem. It also requires you to truly think about what is happening, which might lead to you solving the problem on your own. When viewers can understand the situation clearly, it makes it easier to receive help. 
