@@ -18,11 +18,11 @@ It can be irritating to be stuck on the same issue for hours. However, asking qu
 
 Much like a first impression, a subject header matters when forming a smart question. While browsing StackOverflow, I noticed that forums with more direct subject headers had more interactions than vague ones. However, this isn't always true. Many posts beginning with "How do I..."  often had hundreds or thousands of interactions, contrary to what I expected. 
 
-Without any details to form a solution, the few comments asked for more information. There were no helpful responses. A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. While the author of the post did not face any snark remarks, it goes to show how you can't be helped if you refuse to help yourself. 
-
 ### A poor question:
 
 In the example below, the person who wrote the post does not ask a good question. The only question they ask, "Any thoughts?" doesn't clarify anything. This person fails to provide any code, error codes, or any context. From this text, the author demonstrates a lack of care and effort made to solve their issue. 
+
+Without any details to form a solution, the few comments asked for more information. There were no helpful responses. A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. While the author of the post did not face any snark remarks, it goes to show how you can't be helped if you refuse to help yourself. 
 
 **Facebook Scraper in Python**
 
