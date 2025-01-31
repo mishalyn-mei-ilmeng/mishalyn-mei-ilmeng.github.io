@@ -18,6 +18,8 @@ It can be irritating to be stuck on the same issue for hours. However, asking qu
 
 Much like a first impression, a subject header matters when forming a smart question. While browsing StackOverflow, I noticed that forums with more direct subject headers had more interactions than vague ones. However, this isn't always true. Many posts beginning with "How do I..."  often had hundreds or thousands of interactions, contrary to what I expected. 
 
+Without any details to form a solution, the few comments asked for more information. There were no helpful responses. A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. While the author of the post did not face any snark remarks, it goes to show how you can't be helped if you refuse to help yourself. 
+
 ### A poor question:
 
 In the example below, the person who wrote the post does not ask a good question. The only question they ask, "Any thoughts?" doesn't clarify anything. This person fails to provide any code, error codes, or any context. From this text, the author demonstrates a lack of care and effort made to solve their issue. 
@@ -29,11 +31,9 @@ I am running a simple FB scraper program on Python. But I keep getting errors wh
 The otp code is throwing an error and I am not sure why. I have a feeling that I am not retrieving the otp code correctly. Any thoughts? Thank you!
 ```
 
-Without any details to form a solution, the few comments asked for more information. There were no helpful responses. A few hours after I accessed this post, the discussion was closed due to a lack of details from the user. While the author of the post did not face any snark remarks, it goes to show how you can't be helped if you refuse to help yourself. 
-
 ### A better question:
 
-In the next example, the owner of the post has a clear subject header and lists the problem as well as their attempts at solving it. They also include their error outputs, further clarifying their issue. 
+In the next example, the owner of the post has a clear subject header and lists the problem as well as their attempts at solving it. They also include their error outputs, further clarifying their issue. Unlike the first example, this forum had some productive comments that offered solutions. 
 
 **SpecFlow C# Visual Studio - Navigation Disabled**
 
@@ -80,8 +80,6 @@ Newtonsoft.Json.JsonReaderException: Unexpected character encountered while pars
 Warning: AndDiscoveryProviderSucceed: The project bindings (e.g. step definitions) could not be discovered. Navigation, step completion and other features are disabled. 
   Please check the error message above and report to https://github.com/SpecFlowOSS/SpecFlow.VS/issues if you cannot fix.
 ```
-
-Unlike the first example, this forum had some productive comments that offered solutions. 
 
 ## Conclusion
 The practice of asking smart questions can improve the experience for everyone involved. A well-laid-out question and post can make it easier for those helping to understand the problem. It also requires you to truly think about what is happening, which might lead to you solving the problem on your own. When viewers can understand the situation clearly, it makes it easier to receive help. 
