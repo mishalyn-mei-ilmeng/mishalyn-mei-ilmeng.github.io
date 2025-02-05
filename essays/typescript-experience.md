@@ -34,7 +34,7 @@ const myFunc = () => {
 const myFunc = () => "value";
 
 
-// Destructuring
+// Destructuring Syntax
 const user = { name: 'John Doe', age: 34 };
 
 const { name: userName, age: userAge } = user;
