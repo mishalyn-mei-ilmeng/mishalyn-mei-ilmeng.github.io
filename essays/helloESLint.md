@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img width="400px" class="rounded float-start pe-4" src="../img/redwhitecode.jpg">
+<img width="250px" class="rounded float-start pe-4" src="../img/redwhitecode.jpg">
 
 Using ESLint and learning about the Airbnb coding style has been somewhat comforting. It has brought more structure to the way I code and has made my files nicer to look at. One example of this is when I have been declaring variables. I often forget that declaring a const is an option. By default, I declare variables using let even if I never reassign them new values. However, it's a practice in the Airbnb style to use const when a variable won't change in value. 
 
