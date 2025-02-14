@@ -12,7 +12,7 @@ labels:
   - Learning
 ---
 
-<img height="400px" class="rounded float-start pe-4" src="../img/redwhitecode.jpg">
+<img width="400px" class="rounded float-start pe-4" src="../img/redwhitecode.jpg">
 
 Using ESLint and learning about the Airbnb coding style has been somewhat comforting. It has brought more structure to the way I code and has made my files nicer to look at. One example of this is when I have been declaring variables. I often forget that declaring a const is an option. By default, I declare variables using let even if I never reassign them new values. However, it's a practice in the Airbnb style to use const when a variable won't change in value. 
 
@@ -26,7 +26,7 @@ I realized that readability is equally as important as the functionality of code
 ## Red is an ugly color. 
 Despite representing love and good luck, to me, red has always meant something was wrong. I hate the red underline that shows up when there is an error in my code. Sometimes I just haven't hit save in a while. Sometimes I haven't gotten around to using a variable. Otherwise, I've written nonsensical code and need to listen to the warnings. 
 
-<img width="200px" class="rounded float-end ps-4" src="../img/invisible-bug.jpg">
+<img width="300px" class="rounded float-end ps-4" src="../img/invisible-bug.jpg">
 
 I hate bugs in real life and code. Both make me uncomfortable because I hate that they're there and I don't always know how to get rid of them. Sometimes they're easy to spot, but more often than not, it's hard to see them until they become an issue. It's frustrating how unpredictable bugs can be, whether said bug is crawling along the bathroom wall or breaking my program. I appreciate that ESLint highlights the issues and explains what I did wrong. At least then I can deal with one bug. It's comforting knowing that when I'm too sleep-deprived to catch my errors, something else will. 
 
