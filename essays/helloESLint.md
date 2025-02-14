@@ -15,6 +15,7 @@ labels:
 
 Using ESLint and learning about the Airbnb coding style has been somewhat comforting. It has brought more structure to the way I code and has made my files nicer to look at. One example of this is when I have been declaring variables. I often forget that declaring a const is an option. By default, I declare variables using let even if I never reassign them new values. However, it's a practice in the Airbnb style to use const when a variable won't change in value. 
 
+## Practice makes perfect!
 I believe that practice and repetition are essential to learning. Being reminded to use "const" over "let" in those cases has drilled it into my mind. I've noticed that I now catch myself before typing "let" and think about whether or not the variable will change. 
 
 Outside of Javascript conventions, I tend to be inconsistent in code formatting. I often forget to add spaces before brackets and parentheses, but ESLint has taught me to be mindful of that. The strictness of the coding style annoyed me at the start. Extra spaces inside parentheses, between brackets, or even new lines between functions don't matter when the code gets compiled. If it doesn't change the function of the code, why should I care? 
