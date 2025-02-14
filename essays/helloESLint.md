@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Console.log'"Hello ESLint!')"
+title: "Console.log('Hello ESLint!')"
 # All dates must be YYYY-MM-DD format!
 date: 2025-02-13
 published: true
