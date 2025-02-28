@@ -9,7 +9,7 @@ labels:
   - Bootstrap5
 ---
 
-<img width="300px" class="rounded float-end ps-4" src="../img/blueprint.jpg">
+<img width="300px" class="rounded float-end ps-4" src="../img/library.jpg">
 
 ## What are UI frameworks?
 A simple way to describe a UI framework: a set of pre-made libraries and elements that can help with web development. Developers can use these elements to produce websites without starting from scratch. 
