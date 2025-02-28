@@ -9,14 +9,12 @@ labels:
   - Bootstrap5
 ---
 
-<img width="150px" class="rounded float-start pe-4 " src="../img/library.jpg">
+<img width="300px" class="rounded float-end ps-4" src="../img/blueprint.jpg">
 
 ## What are UI frameworks?
 A simple way to describe a UI framework: a set of pre-made libraries and elements that can help with web development. Developers can use these elements to produce websites without starting from scratch. 
 
 A good analogy for using a UI Framework would be creating a house. You could gather all the materials yourself, or you could use things others have made. Making a house from scratch allows for complete creative freedom in exchange for lots of time and effort. On the other hand, using tools and materials from other sources can save time at the cost of customization! However, no matter what tools or materials you obtain, you still need to know how to build a house. Similarly in web design, simply accessing a UI framework doesn't mean you can use it effectively.
-
-<img width="300px" class="rounded float-end ps-4" src="../img/blueprint.jpg">
 
 ## Bootstrap5: A new tool in the toolbox!
 Bootstrap5 isn't a programming language, but it can be a powerful tool for web development. In a way, it's like another tool to add to your toolbox. It's not just a new tool however, you still need to know a few things before using it. Without some understanding of HTML and CSS, it would be really difficult to use Bootstrap5!
