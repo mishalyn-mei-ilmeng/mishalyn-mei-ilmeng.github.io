@@ -64,7 +64,7 @@ When first learning JavaScript, I would ask ChatGPT to give me examples of when 
 
 #### Explaining code
 
-When preparing for In-Class WODs, I would ask ChatGPT to explain certain portions of code. The prompts would look like "<Code> What does this code do?" When first working with the template, I would ask ChatGPT and Copilot to explain which files needed editing and why. The answers to "why" would typically be long and confusing but otherwise, the responses would help me complete tasks efficiently. 
+When preparing for In-Class WODs, I would ask ChatGPT to explain certain portions of code. The prompts would look like "[Block of Code] What does this code do?" When first working with the template, I would ask ChatGPT and Copilot to explain which files needed editing and why. The answers to "why" would typically be long and confusing but otherwise, the responses would help me complete tasks efficiently. 
 
 #### Writing code
 
