@@ -12,7 +12,7 @@ labels:
   - Reflection
 ---
 
-<img class="img-fluid w-100" src="../img/library.jpg">
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/igor-omilaev-gVQLAbGVB6Q-unsplash.jpg">
 
 ## Introduction
 
