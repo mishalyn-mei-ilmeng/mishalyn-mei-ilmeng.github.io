@@ -10,7 +10,7 @@ labels:
   - Reflection
 ---
 
-<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;"  class="rounded float-start pe-4" src="../img/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg">
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg">
 
 ## A Final Goodbye
 
