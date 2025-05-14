@@ -16,17 +16,17 @@
   "interests": [
     { "name": "Cybersecurity" },
     { "name": "Data Science" },
-    { "name": "Sustainability" },
+    { "name": "Graphic Design" },
     { "name": "Architecture" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "HTML" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS, Unix, Microsoft Excel" ]
+      "keywords": [ "MacOS, Visual Studio Code, Unix, Microsoft Excel" ]
     }
   ],
   "education": [
@@ -64,7 +64,7 @@
       "endDate": "",
       "summary": "",
       "highlights": [
-        "Member, Katipunan Club, 2023-Present",
+        "Member, Katipunan Club, 2023-2025",
         "Member, ACM Manoa, 2023-Present"
       ]
     }
