@@ -4,9 +4,10 @@ type: essay
 title: "placeholder"
 # All dates must be YYYY-MM-DD format!
 date: 2016-05-13
-published: false
+published: true
 labels:
-  - Engineering
+  - Software Engineering
+  - Reflection
 ---
 
 <img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;"  class="rounded float-start pe-4" src="../img/ferenc-almasi-c8h0n7fSTqs-unsplash.jpg">
