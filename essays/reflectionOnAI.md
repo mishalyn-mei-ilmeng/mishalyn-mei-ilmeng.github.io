@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: "AI: More Than Just A Tutor"
 # All dates must be YYYY-MM-DD format!
-date: 2025-02-27
+date: 2025-05-13
 published: true
 labels:
   - AI
