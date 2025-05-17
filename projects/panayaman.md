@@ -4,7 +4,7 @@ type: project
 image: img/book1.jpg
 title: "Panayam"
 date: 2024
-published: true
+published: false
 labels:
   - Language (Filipino)
 summary: "Panayam means interview in Tagalog. This is a presentation I created when I took FIL 201."
