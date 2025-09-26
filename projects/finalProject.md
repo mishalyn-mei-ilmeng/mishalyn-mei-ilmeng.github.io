@@ -13,7 +13,7 @@ labels:
 summary: "Software Engineering (ICS 314) Final Project"
 ---
 
-<img class="img-fluid" src="../img/daGrindz/homeM3.png">
+<img class="img-fluid" src="../img/daGrindz/homeM3-crop.png">
 
 ## Overview
 
