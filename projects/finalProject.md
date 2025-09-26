@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/daGrindz/homeM3.png
+image: img/daGrindz/homeM3-crop.png
 title: "Da Grindz Web App"
 date: Apr-May 2026
 published: true
@@ -10,10 +10,10 @@ labels:
   - TypeScript
   - React
   - PostgreSQL
-summary: "Software Engineering (ICS 314) Final Project"
+summary: "Software Engineering I (ICS 314) Final Project"
 ---
 
-<img class="img-fluid" src="../img/daGrindz/homeM3-crop.png">
+<img class="img-fluid" src="../img/daGrindz/homeM3.png">
 
 ## Overview
 
