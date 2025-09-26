@@ -6,7 +6,7 @@
     "email": "mishalyn@hawaii.edu","misha.ilmeng@gmail.com",
     "phone": "808-446-5278",
     "website": "https://mishalyn-mei-ilmeng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in cybersecurity or data science.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in software development or data science.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mishalyn-mei-ilmeng", "url": "http://github.com/mishalyn-mei-ilmeng" },
@@ -14,7 +14,8 @@
     ]
   },
   "interests": [
-    { "name": "Cybersecurity" },
+    { "name": "Software Development" },
+    { "name": "UI/UX Design" },
     { "name": "Data Science" },
     { "name": "Graphic Design" },
     { "name": "Architecture" }
@@ -22,7 +23,7 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "HTML" ]
+      "keywords": [ "HTML", "JavaScript", "CSS", "React", "Java", "C", "C++" "SQL" ]
     },
     {
       "name": "Toolsets/OS",
@@ -36,7 +37,10 @@
       "studyType": "B.S.",
       "startDate": "2023-07-23",
       "endDate": "Present",
-      "courses": [
+      "courses": [ 
+        "Algorithms I", 
+        "Software Engineering I", 
+        "Database Systems I"
       ]
     }
   ],
@@ -57,15 +61,22 @@
   ],
   "volunteer": [
     {
-      "organization": "",
+      "organization": "Katipunan Club",
       "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "position": "Member",
+      "startDate": "Fall 2023",
+      "endDate": "Spring 2025",
       "summary": "",
       "highlights": [
-        "Member, Katipunan Club, 2023-2025",
-        "Member, ACM Manoa, 2023-Present"
+      ]
+    }, {
+      "organization": "Association for Computing Machinery (ACM)",
+      "website": "",
+      "position": "Member",
+      "startDate": "Fall 2023",
+      "endDate": "Current",
+      "summary": "",
+      "highlights": [
       ]
     }
   ],
