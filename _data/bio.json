@@ -6,7 +6,7 @@
     "email": "mishalyn@hawaii.edu","misha.ilmeng@gmail.com",
     "phone": "808-446-5278",
     "website": "https://mishalyn-mei-ilmeng.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in software development or data science.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2027. My professional goal is to build a career in software development.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mishalyn-mei-ilmeng", "url": "http://github.com/mishalyn-mei-ilmeng" },
@@ -16,7 +16,6 @@
   "interests": [
     { "name": "Software Development" },
     { "name": "UI/UX Design" },
-    { "name": "Data Science" },
   ],
   "skills": [
     {
@@ -40,20 +39,27 @@
         "Software Engineering I", 
         "Database Systems I"
       ]
-    }
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2028)",
+      "studyType": "M.S.",
+      "startDate": "2026-07-21",
+      "endDate": "Present",
+    },
   ],
   "work": [
     {
-      "company": "Sunglass Hut",
-      "position": "Casual Sales Associate",
+      "company": "iSQARE Laboratory",
+      "position": "Research Assistant",
       "website": "",
-      "startDate": "2024-07-01",
+      "startDate": "2025-10-01",
       "endDate": "Present",
       "summary": "",
       "highlights": [
-        "Serve as a personal stylist for customers by recommending eyewear based on their personal needs and current trends.",
-        "Manage daily retail operations, including inventory management, point-of-sale transactions, selling merchandise, and customer service.",
-        "Perform eyewear adjustments and repairs with precision and care."
+        "Conducting research on effective and responsible integration of artificial intelligence (AI) tools into an introductory undergraduate software engineering course under the guidance of Dr. Anthony Peruma.",
+        "Conducting research on assessing self-admitted technical debt (SATD) in Python Jupyter Notebooks under the guidance of Dr. Anthony Peruma.",
+        "Read and assess research articles related to identifying and characterizing self-admitted technical debt using machine learning."
       ]
     }
   ],
