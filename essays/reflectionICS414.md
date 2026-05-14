@@ -11,7 +11,7 @@ labels:
   - ICS 414
 ---
 
-<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/igor-omilaev-gVQLAbGVB6Q-unsplash.jpg">
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/ics414/dashboard.png">
 
 
 ## Overview
@@ -25,13 +25,21 @@ Outside of coding, I handled project planning and coordination for our team. Thi
 ### Technical Contributions
 My technical contributions mostly delved in UI changes, refactoring, fixing bugs, and some general improvements. 
 
-To account for our project goal of making the web-application more mobile friendly, I made UI adjustments across various components and pages. Overall, I wanted to ensure a smoother and accessible experience for users. Out of all of them, I think my favorite to make was the animated hamburger dropdown on the navbar, but I contributed to the shopping-list 
+To account for our project goal of making the web-application more mobile friendly, I made UI adjustments across various components and pages. Overall, I wanted to ensure a smoother and accessible experience for users. Out of all of them, I think my favorite to make was the animated hamburger dropdown on the navbar.
+
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/ics414/shopping.png">
 
 Another notable component I worked on dealt with expired food items. During one of the later milestones, I noticed a bug in the Quick Alerts section on the Dashboard page where it mishandled cases where the expiry date on an item had passed and where the shopping-date for a list had passed. I refactored code for this component to better handle these cases and to better reflect the urgency between expired and soon to expire items. Also, the inherited code had outdated logic that didn't interact properly with shopping lists' outing dates and used a static offset instead, so I modified the component to properly reflect planned shopping dates. 
 
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/ics414/dashboard.png">
+
 While working on updating the Quick Alerts component, I realized that it would be beneficial to notify users that they have expired items on the Pantry page so that they wouldn't need to search for that item. Then I created a notification for the Pantry page that appears only when the user has an expired item in a pantry location. In case users may not want that reminder, I also made the banner temporarily removable only to reappear when users revisit or refresh the page. The user may have many expired items at varying points of expiry, so the text dynamically reflects the severity. 
 
+<img class="img-fluid w-100" style="max-height: 500px; object-fit: cover;" src="../img/ics414/pantry.png">
+
 Another major part of my contribution was refactoring the codebase to make it cleaner, more reusable, and easier to maintain. During code reviews, I noticed redundancy in several functions as well as repeated inline styling. Although the inherited codebase already implemented multiple CSS modules and classes for custom styling, there were still many components that repeated inline styling and made code difficult to read and update easily. To address this, I organized repeated code into reusable classes to improve consistancy and readibility. 
+
+<img width="250px" class="rounded float-start pe-4" src="../img/ics414/mobile.png">
 
 Throughout development, we also encountered various technical challenges including configuration setup issues, schema migrations, and merge conflicts. While some of this work may not be fully reflected in my GitHub contributions, I found these experiences especially valuable because they helped me with my debugging, problem-solving, and collaboration skills. 
 
